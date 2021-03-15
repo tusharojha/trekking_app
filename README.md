@@ -9,7 +9,7 @@ A simple & secure location sharing platform. With features including:
 
 |         Home Screen         |                 Start location sharing                  |            Trekking Screen             |
 | :-------------------------: | :-----------------------------------------------------: | :------------------------------------: |
-| ![](./screenshots/home.jpg) | ![](./the_trekking_app/screenshots/start_trekking.jpg) | ![](./screenshots/trekking_screen.jpg) |
+| ![](./screenshots/home.jpg) | ![](./screenshots/start_trekking.jpg) | ![](./screenshots/trekking_screen.jpg) |
 
 ## Download APK
 
